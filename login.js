@@ -27,6 +27,10 @@ loginForm.addEventListener('submit', async (e) => {
         }
 
         // 4. Store the authentication token securely
+        // 4. Store the authentication token securely
+        // 4. Store the authentication token securely
+        // 4. Store the authentication token securely
+        // 4. Store the authentication token securely
         localStorage.setItem('authToken', result.token);
 
         // 5. Redirect the user to the dashboard
